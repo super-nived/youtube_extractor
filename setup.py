@@ -18,7 +18,7 @@ setup(
     description='A package for extracting YouTube video IDs from URLs',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/youtube_extractor',
+    url='https://github.com/super-nived/youtube_extractor.git',
     license='MIT',
     classifiers=[
         'License :: OSI Approved :: MIT License',
